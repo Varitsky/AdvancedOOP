@@ -24,7 +24,7 @@ public class Main {
         Cat anotherCat = new Cat();
         anotherCat.setBreed("Oriental");
         anotherCat.setName("Grace");
-        anotherCat.setColor("black");
+        anotherCat.setColor("Bblack");
         anotherCat.setAge(7);
         System.out.println("Run: "+anotherCat.run(220));
         System.out.println("Swim: "+anotherCat.swim(2));
